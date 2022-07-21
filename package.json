@@ -1,0 +1,8 @@
+{
+  "name": "elastic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vhm205/elastic.git",
+  "author": "vhm205 <minhhuynhvu9221@gmail.com>",
+  "license": "MIT"
+}
